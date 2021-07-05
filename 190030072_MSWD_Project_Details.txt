@@ -1,0 +1,14 @@
+Project Details:
+
+Project ID    : WD-MSWD 38
+
+Project Title : Todo List(user should have access for creating, adding, updating and deleting the todos and the status of the todos)
+
+Project Completion Percentage : 90%
+
+Team Lead ID     : 190030072
+Team Lead Name   : MANOJ ANASURI
+
+Team Member ID   : 190030736
+Team Member Name : KANTIPUDI BHARGAVI PRASANNA
+
